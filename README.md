@@ -15,12 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 @@ -16,15 +16,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through
 
 ## 🤳 Connect With Me
-
-
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pau-mang-1a09b3338/)
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
