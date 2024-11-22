@@ -6,5 +6,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <h2> Connect with me</h2>
 
+## Connect with me
+<a href="https://www.linkedin.com/in/pau-mang-1a09b3338/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;">
+</a>
+
+
+
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
